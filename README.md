@@ -1,4 +1,3 @@
-# mustafabatuhancinar
 # Hey! I'm Mustafa Batuhan Çınar 👋
 
 - 🌱 I’m currently learning .NET Core, C#, and SQL
